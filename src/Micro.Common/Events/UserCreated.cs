@@ -1,5 +1,6 @@
 namespace Micro.Common.Events
 {
+    //User created class
     public class UserCreated : IEvent
     {
         public string Email { get; }

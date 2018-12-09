@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/bikun/GIT/micro_in_core/src/Micro.Common/Micro.Common.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

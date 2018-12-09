@@ -1,0 +1,9 @@
+/home/bikun/GIT/micro_in_core/src/Micro.Common/bin/Debug/netstandard2.0/Micro.Common.deps.json
+/home/bikun/GIT/micro_in_core/src/Micro.Common/bin/Debug/netstandard2.0/Micro.Common.dll
+/home/bikun/GIT/micro_in_core/src/Micro.Common/bin/Debug/netstandard2.0/Micro.Common.pdb
+/home/bikun/GIT/micro_in_core/src/Micro.Common/obj/Debug/netstandard2.0/Micro.Common.csprojAssemblyReference.cache
+/home/bikun/GIT/micro_in_core/src/Micro.Common/obj/Debug/netstandard2.0/Micro.Common.csproj.CoreCompileInputs.cache
+/home/bikun/GIT/micro_in_core/src/Micro.Common/obj/Debug/netstandard2.0/Micro.Common.AssemblyInfoInputs.cache
+/home/bikun/GIT/micro_in_core/src/Micro.Common/obj/Debug/netstandard2.0/Micro.Common.AssemblyInfo.cs
+/home/bikun/GIT/micro_in_core/src/Micro.Common/obj/Debug/netstandard2.0/Micro.Common.dll
+/home/bikun/GIT/micro_in_core/src/Micro.Common/obj/Debug/netstandard2.0/Micro.Common.pdb

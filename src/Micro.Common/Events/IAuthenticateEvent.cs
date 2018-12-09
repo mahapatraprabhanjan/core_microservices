@@ -2,8 +2,8 @@ using System;
 
 namespace Micro.Common.Events
 {
-    public interface IAuthenticateEvent:IEvent
+    public interface IAuthenticateEvent : IEvent
     {
-        Guid UserId { get; }        
+        Guid UserId { get; }
     }
 }

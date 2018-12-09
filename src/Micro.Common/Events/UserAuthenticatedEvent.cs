@@ -1,6 +1,6 @@
 namespace Micro.Common.Events
 {
-    public class UserAuthenticated:IEvent
+    public class UserAuthenticated : IEvent
     {
         public string Email { get; private set; }
 

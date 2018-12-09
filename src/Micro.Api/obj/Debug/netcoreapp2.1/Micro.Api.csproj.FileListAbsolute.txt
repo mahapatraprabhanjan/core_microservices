@@ -1,0 +1,17 @@
+/home/bikun/GIT/micro_in_core/src/Micro.Api/bin/Debug/netcoreapp2.1/Micro.Api.deps.json
+/home/bikun/GIT/micro_in_core/src/Micro.Api/bin/Debug/netcoreapp2.1/Micro.Api.runtimeconfig.json
+/home/bikun/GIT/micro_in_core/src/Micro.Api/bin/Debug/netcoreapp2.1/Micro.Api.runtimeconfig.dev.json
+/home/bikun/GIT/micro_in_core/src/Micro.Api/bin/Debug/netcoreapp2.1/Micro.Api.dll
+/home/bikun/GIT/micro_in_core/src/Micro.Api/bin/Debug/netcoreapp2.1/Micro.Api.pdb
+/home/bikun/GIT/micro_in_core/src/Micro.Api/bin/Debug/netcoreapp2.1/Micro.Common.dll
+/home/bikun/GIT/micro_in_core/src/Micro.Api/bin/Debug/netcoreapp2.1/Micro.Common.pdb
+/home/bikun/GIT/micro_in_core/src/Micro.Api/obj/Debug/netcoreapp2.1/Micro.Api.csprojAssemblyReference.cache
+/home/bikun/GIT/micro_in_core/src/Micro.Api/obj/Debug/netcoreapp2.1/Micro.Api.csproj.CoreCompileInputs.cache
+/home/bikun/GIT/micro_in_core/src/Micro.Api/obj/Debug/netcoreapp2.1/Micro.Api.RazorAssemblyInfo.cache
+/home/bikun/GIT/micro_in_core/src/Micro.Api/obj/Debug/netcoreapp2.1/Micro.Api.RazorAssemblyInfo.cs
+/home/bikun/GIT/micro_in_core/src/Micro.Api/obj/Debug/netcoreapp2.1/Micro.Api.AssemblyInfoInputs.cache
+/home/bikun/GIT/micro_in_core/src/Micro.Api/obj/Debug/netcoreapp2.1/Micro.Api.AssemblyInfo.cs
+/home/bikun/GIT/micro_in_core/src/Micro.Api/obj/Debug/netcoreapp2.1/Micro.Api.RazorTargetAssemblyInfo.cache
+/home/bikun/GIT/micro_in_core/src/Micro.Api/obj/Debug/netcoreapp2.1/Micro.Api.csproj.CopyComplete
+/home/bikun/GIT/micro_in_core/src/Micro.Api/obj/Debug/netcoreapp2.1/Micro.Api.dll
+/home/bikun/GIT/micro_in_core/src/Micro.Api/obj/Debug/netcoreapp2.1/Micro.Api.pdb

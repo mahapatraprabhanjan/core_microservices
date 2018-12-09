@@ -1,0 +1,17 @@
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Identity/bin/Debug/netcoreapp2.1/Micro.Services.Identity.deps.json
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Identity/bin/Debug/netcoreapp2.1/Micro.Services.Identity.runtimeconfig.json
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Identity/bin/Debug/netcoreapp2.1/Micro.Services.Identity.runtimeconfig.dev.json
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Identity/bin/Debug/netcoreapp2.1/Micro.Services.Identity.dll
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Identity/bin/Debug/netcoreapp2.1/Micro.Services.Identity.pdb
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Identity/bin/Debug/netcoreapp2.1/Micro.Common.dll
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Identity/bin/Debug/netcoreapp2.1/Micro.Common.pdb
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Identity/obj/Debug/netcoreapp2.1/Micro.Services.Identity.csprojAssemblyReference.cache
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Identity/obj/Debug/netcoreapp2.1/Micro.Services.Identity.csproj.CoreCompileInputs.cache
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Identity/obj/Debug/netcoreapp2.1/Micro.Services.Identity.RazorAssemblyInfo.cache
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Identity/obj/Debug/netcoreapp2.1/Micro.Services.Identity.RazorAssemblyInfo.cs
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Identity/obj/Debug/netcoreapp2.1/Micro.Services.Identity.AssemblyInfoInputs.cache
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Identity/obj/Debug/netcoreapp2.1/Micro.Services.Identity.AssemblyInfo.cs
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Identity/obj/Debug/netcoreapp2.1/Micro.Services.Identity.RazorTargetAssemblyInfo.cache
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Identity/obj/Debug/netcoreapp2.1/Micro.Services.Identity.csproj.CopyComplete
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Identity/obj/Debug/netcoreapp2.1/Micro.Services.Identity.dll
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Identity/obj/Debug/netcoreapp2.1/Micro.Services.Identity.pdb

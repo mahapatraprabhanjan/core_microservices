@@ -1,6 +1,6 @@
 namespace Micro.Common.Commands
 {
-    public class CreateUser:ICommand
+    public class CreateUser : ICommand
     {
         public string Email { get; set; }
 

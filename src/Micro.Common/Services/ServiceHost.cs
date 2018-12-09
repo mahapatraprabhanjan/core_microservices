@@ -16,7 +16,7 @@ namespace Micro.Common.Services
 
         public async void Run() => await _webHost.RunAsync();
 
-        public static HostBuilder Create<TStartup>(string[] args) where TStartup: class
+        public static HostBuilder Create<TStartup>(string[] args) where TStartup : class
         {
             Console.Title = typeof(TStartup).Namespace;
             var config = new ConfigurationBuilder()

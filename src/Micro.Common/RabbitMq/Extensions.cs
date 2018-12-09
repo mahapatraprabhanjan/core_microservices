@@ -17,7 +17,7 @@ namespace Micro.Common.RabbitMq
         public static Task WithEventHandlerAsync<TEvent>(this IBusClient bus,
         IEventHandler<TEvent> handler) where TEvent : IEvent =>
             bus.SubscribeAsync<TEvent>(msg => handler.HandleAsync(msg),
-            ctx => ctx.UseSubscribeConfiguration(cfg => 
+            ctx => ctx.UseSubscribeConfiguration(cfg =>
             cfg.FromDeclaredQueue(q => q.WithName(GetQueueName<TEvent>()))));
 
         private static string GetQueueName<T>()

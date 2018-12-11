@@ -4,6 +4,6 @@ namespace Micro.Common.RabbitMq
 {
     public class RabbitMqOptions : RawRabbitConfiguration
     {
-
+        
     }
 }

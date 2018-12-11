@@ -6,6 +6,6 @@ namespace Micro.Api.Controllers
     public class HomeController : Controller
     {
         [HttpGet("")]
-        public IActionResult Get() => Content("Hello from Micro APO!");
+        public IActionResult Get() => Content("Hello from Micro API!");
     }
 }

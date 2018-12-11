@@ -29,12 +29,12 @@ namespace Micro.Common.Services
 
         public BusBuilder SubscribeToEvent<TEvent>() where TEvent : IEvent
         {
-            var handler = (IEventHandler<TEvent>)_webHost.Services
-            .GetService(typeof(IEventHandler<TEvent>));
+            var handler = (IEventHandler<TEvent>)_webHost.Services.GetService(typeof(IEventHandler<TEvent>));
             _bus.WithEventHandlerAsync(handler);
 
             return this;
         }
-        public override ServiceHost Build => throw new System.NotImplementedException();
+        
+        public override ServiceHost Build => new ServiceHost(_webHost);
     }
 }

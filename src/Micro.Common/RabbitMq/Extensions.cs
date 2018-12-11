@@ -2,7 +2,10 @@ using System.Reflection;
 using System.Threading.Tasks;
 using Micro.Common.Commands;
 using Micro.Common.Events;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 using RawRabbit;
+using RawRabbit.Instantiation;
 
 namespace Micro.Common.RabbitMq
 {
@@ -22,5 +25,18 @@ namespace Micro.Common.RabbitMq
 
         private static string GetQueueName<T>()
             => $"{Assembly.GetEntryAssembly().GetName()}/{typeof(T).Name}";
+
+        public static void AddRabbitMq(this IServiceCollection services, 
+            IConfiguration configuration)
+        {
+            var options = new RabbitMqOptions();
+            var section = configuration.GetSection("RabbitMq");
+            section.Bind(options);
+            var client = RawRabbitFactory.CreateSingleton(new RawRabbitOptions
+            {
+                ClientConfiguration = options
+            });
+            services.AddSingleton<IBusClient>(_ => client);
+        }
     }
 }

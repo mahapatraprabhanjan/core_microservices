@@ -3,6 +3,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Mvc;
+using Micro.Common.RabbitMq;
+using Micro.Common.Events;
+using Micro.Api.Application.Handlers;
 
 namespace Micro.Api
 {
@@ -19,6 +22,8 @@ namespace Micro.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddRabbitMq(Configuration);
+            services.AddTransient<IEventHandler<ActivityCreated>, ActivityCreatedHandler>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

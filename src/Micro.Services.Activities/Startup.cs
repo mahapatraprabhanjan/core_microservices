@@ -1,4 +1,5 @@
 ﻿using Micro.Common.Commands;
+using Micro.Common.Mongo;
 using Micro.Common.RabbitMq;
 using Micro.Services.Activities.Application.Handlers;
 using Microsoft.AspNetCore.Builder;
@@ -22,6 +23,8 @@ namespace Micro.Services.Activities
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddLogging();
+            services.AddMongoDB(Configuration);
             services.AddRabbitMq(Configuration);
             services.AddTransient<ICommandHandler<CreateActivity>, CreateActivityHandler>();
         }

@@ -1,3 +1,9 @@
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/obj/Debug/netcoreapp2.1/Micro.Services.Activities.csprojAssemblyReference.cache
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/obj/Debug/netcoreapp2.1/Micro.Services.Activities.csproj.CoreCompileInputs.cache
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/obj/Debug/netcoreapp2.1/Micro.Services.Activities.RazorAssemblyInfo.cache
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/obj/Debug/netcoreapp2.1/Micro.Services.Activities.RazorAssemblyInfo.cs
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/obj/Debug/netcoreapp2.1/Micro.Services.Activities.AssemblyInfoInputs.cache
+/home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/obj/Debug/netcoreapp2.1/Micro.Services.Activities.AssemblyInfo.cs
 /home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/bin/Debug/netcoreapp2.1/Micro.Services.Activities.deps.json
 /home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/bin/Debug/netcoreapp2.1/Micro.Services.Activities.runtimeconfig.json
 /home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/bin/Debug/netcoreapp2.1/Micro.Services.Activities.runtimeconfig.dev.json
@@ -5,12 +11,6 @@
 /home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/bin/Debug/netcoreapp2.1/Micro.Services.Activities.pdb
 /home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/bin/Debug/netcoreapp2.1/Micro.Common.dll
 /home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/bin/Debug/netcoreapp2.1/Micro.Common.pdb
-/home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/obj/Debug/netcoreapp2.1/Micro.Services.Activities.csprojAssemblyReference.cache
-/home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/obj/Debug/netcoreapp2.1/Micro.Services.Activities.csproj.CoreCompileInputs.cache
-/home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/obj/Debug/netcoreapp2.1/Micro.Services.Activities.RazorAssemblyInfo.cache
-/home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/obj/Debug/netcoreapp2.1/Micro.Services.Activities.RazorAssemblyInfo.cs
-/home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/obj/Debug/netcoreapp2.1/Micro.Services.Activities.AssemblyInfoInputs.cache
-/home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/obj/Debug/netcoreapp2.1/Micro.Services.Activities.AssemblyInfo.cs
 /home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/obj/Debug/netcoreapp2.1/Micro.Services.Activities.RazorTargetAssemblyInfo.cache
 /home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/obj/Debug/netcoreapp2.1/Micro.Services.Activities.csproj.CopyComplete
 /home/bikun/GIT/micro_in_core/src/Micro.Services.Activities/obj/Debug/netcoreapp2.1/Micro.Services.Activities.dll

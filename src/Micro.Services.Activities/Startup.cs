@@ -1,6 +1,7 @@
 ﻿using Micro.Common.Commands;
 using Micro.Common.Mongo;
 using Micro.Common.RabbitMq;
+using Micro.Services.Activities.Application.Domain.Repositories;
 using Micro.Services.Activities.Application.Handlers;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -27,6 +28,8 @@ namespace Micro.Services.Activities
             services.AddMongoDB(Configuration);
             services.AddRabbitMq(Configuration);
             services.AddTransient<ICommandHandler<CreateActivity>, CreateActivityHandler>();
+            services.AddTransient<IActivityRepository, ActivityRepository>();
+            services.AddTransient<ICategoryRepository, CategoryRepository>();e
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -26,6 +26,7 @@ namespace Micro.Common.Mongo
             });
 
             services.AddTransient<IDatabaseInitializer, MongoInitializer>();
+            services.AddTransient<IDatabaseSeeder, MongoSeeder>();
         }
     }
 }

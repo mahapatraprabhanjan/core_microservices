@@ -5,6 +5,7 @@ This project is developed using -
 
 .Net Core
 RabbitMq - Running in a docker container
+MongoDB as the database
 
 Project Structure
 Micro.Common - A common project that has the interfaces and classes definitions for Events, Commands, RabbitMq helper classes.
